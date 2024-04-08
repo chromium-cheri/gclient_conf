@@ -9,6 +9,7 @@ solutions = [
       "src/third_party/libphonenumber/dist": "https://github.com/chromium-cheri/libphonenumber.git@ee22b820126f83a584753117fcfe5b03fa4afe9c",
       "src/third_party/flac": "https://github.com/chromium-cheri/flac.git@1ae3cafc0b5c31b6bc98e95e4e36c90e29e95c09",
       "src/third_party/icu": "https://github.com/chromium-cheri/icu.git@e804a53890e579e0b3f207aebc0996a7223aa383",
+      "src/third_party/libsync/src": "https://github.com/chromium-cheri/libsync.git@0b6b383c938a397112e4e876a1bd159e61dd80d1",
       "src/third_party/ruy/src": "https://github.com/chromium-cheri/ruy.git@d58ec6ed57bc4b2ab2e5c268213c0a10f75c9b74",
       "src/third_party/skia": "https://github.com/chromium-cheri/skia.git@e0eba2ca9a3673fb9f77438c0adfc8d8e5f12fda",
       "src/third_party/perfetto": "https://github.com/chromium-cheri/perfetto.git@a9cd54c32b454aac4110809b2a3347a1bf1643fd",
