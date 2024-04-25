@@ -20,7 +20,7 @@ solutions = [
       "src/third_party/skia": "https://github.com/chromium-cheri/skia.git@e0eba2ca9a3673fb9f77438c0adfc8d8e5f12fda",
       "src/third_party/vulkan-deps": "https://github.com/chromium-cheri/vulkan-deps.git@660ce8006fe932417ddfa11c79f334b8e792afda",
       "src/third_party/vulkan_memory_allocator": "https://github.com/chromium-cheri/VulkanMemoryAllocator.git@f175cfc64a226e40bb2a698f217aa17065f28c74",
-      "src/third_party/webrtc": "https://github.com/chromium-cheri/webrtc.git@3992c1912cac9578cfdf761e8dae91a82efbfc8c",
+      "src/third_party/webrtc": "https://github.com/chromium-cheri/webrtc.git@a91af3b910fd6d38615125ee6bdeb47aea2a7f72",
       "src/v8": "https://github.com/CTSRD-CHERI/v8.git@0a141bf7a20217db1a3e39a996aae4184cdf2046"
     },
     "custom_vars": {
