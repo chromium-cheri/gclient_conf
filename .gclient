@@ -17,7 +17,7 @@ solutions = [
       "src/third_party/perfetto": "https://github.com/chromium-cheri/perfetto.git@a9cd54c32b454aac4110809b2a3347a1bf1643fd",
       "src/net/third_party/quiche/src": "https://github.com/chromium-cheri/quiche.git@095cce93df571ee00682bf69aadcd787f94a4a2d",
       "src/third_party/ruy/src": "https://github.com/chromium-cheri/ruy.git@d58ec6ed57bc4b2ab2e5c268213c0a10f75c9b74",
-      "src/third_party/skia": "https://github.com/chromium-cheri/skia.git@e0eba2ca9a3673fb9f77438c0adfc8d8e5f12fda",
+      "src/third_party/skia": "https://github.com/chromium-cheri/skia.git@64f97d44dc777601255c2ac747f92028742edd18",
       "src/third_party/vulkan-deps": "https://github.com/chromium-cheri/vulkan-deps.git@660ce8006fe932417ddfa11c79f334b8e792afda",
       "src/third_party/vulkan_memory_allocator": "https://github.com/chromium-cheri/VulkanMemoryAllocator.git@f175cfc64a226e40bb2a698f217aa17065f28c74",
       "src/third_party/webrtc": "https://github.com/chromium-cheri/webrtc.git@a91af3b910fd6d38615125ee6bdeb47aea2a7f72",
