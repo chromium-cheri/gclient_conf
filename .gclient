@@ -6,6 +6,7 @@ solutions = [
     "custom_deps": {
       "src/third_party/angle": "https://github.com/chromium-cheri/angle.git@52f9fdda744bd0b443a4f34d2ed66b3ad2507f96",
       "src/third_party/boringssl/src": "https://github.com/chromium-cheri/boringssl.git@f7825d609ae29c54b50b34066e007cf2849a971e",
+      "src/third_party/dawn": "https://github.com/chromium-cheri/dawn.git@2b4ef7732b02813877fea053fedadb2942444cd8",
       "src/third_party/libphonenumber/dist": "https://github.com/chromium-cheri/libphonenumber.git@ee22b820126f83a584753117fcfe5b03fa4afe9c",
       "src/third_party/flac": "https://github.com/chromium-cheri/flac.git@1ae3cafc0b5c31b6bc98e95e4e36c90e29e95c09",
       "src/third_party/icu": "https://github.com/chromium-cheri/icu.git@e804a53890e579e0b3f207aebc0996a7223aa383",
