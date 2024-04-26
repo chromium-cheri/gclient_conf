@@ -13,7 +13,7 @@ solutions = [
       "src/third_party/icu": "https://github.com/chromium-cheri/icu.git@e804a53890e579e0b3f207aebc0996a7223aa383",
       "src/third_party/libphonenumber/dist": "https://github.com/chromium-cheri/libphonenumber.git@ee22b820126f83a584753117fcfe5b03fa4afe9c",
       "src/third_party/libsync/src": "https://github.com/chromium-cheri/libsync.git@0b6b383c938a397112e4e876a1bd159e61dd80d1",
-      "src/third_party/pdfium": "https://github.com/chromium-cheri/pdfium.git@1729152a5fee8c9a63a782a24134dd04e88de24d",
+      "src/third_party/pdfium": "https://github.com/chromium-cheri/pdfium.git@69f85b551479cc3f716768cbdbaa43f3b8248d08",
       "src/third_party/perfetto": "https://github.com/chromium-cheri/perfetto.git@a9cd54c32b454aac4110809b2a3347a1bf1643fd",
       "src/net/third_party/quiche/src": "https://github.com/chromium-cheri/quiche.git@095cce93df571ee00682bf69aadcd787f94a4a2d",
       "src/third_party/ruy/src": "https://github.com/chromium-cheri/ruy.git@d58ec6ed57bc4b2ab2e5c268213c0a10f75c9b74",
@@ -21,7 +21,7 @@ solutions = [
       "src/third_party/vulkan-deps": "https://github.com/chromium-cheri/vulkan-deps.git@660ce8006fe932417ddfa11c79f334b8e792afda",
       "src/third_party/vulkan_memory_allocator": "https://github.com/chromium-cheri/VulkanMemoryAllocator.git@f175cfc64a226e40bb2a698f217aa17065f28c74",
       "src/third_party/webrtc": "https://github.com/chromium-cheri/webrtc.git@a91af3b910fd6d38615125ee6bdeb47aea2a7f72",
-      "src/v8": "https://github.com/CTSRD-CHERI/v8.git@cf4ddae033b01525dc5ce02d3e44a74ccb411213"
+      "src/v8": "https://github.com/CTSRD-CHERI/v8.git@e70d53ff8cc1773b952e9e23771b6ae10919aa09"
     },
     "custom_vars": {
        "checkout_nacl": False
