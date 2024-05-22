@@ -19,11 +19,11 @@ solutions = [
       "src/net/third_party/quiche/src": "https://github.com/chromium-cheri/quiche.git@095cce93df571ee00682bf69aadcd787f94a4a2d",
       "src/third_party/ruy/src": "https://github.com/chromium-cheri/ruy.git@5ab79df243d9267257279a7f38ae0d77a3f82fd7",
       "src/third_party/snappy/src": "https://github.com/chromium-cheri/snappy.git@7a0f716cd00154a0541fce85d9057965f9158d5b",
-      "src/third_party/skia": "https://github.com/chromium-cheri/skia.git@ebd56b3c51bd3fd87e514584cb75917f7cea8d8e",
+      "src/third_party/skia": "https://github.com/chromium-cheri/skia.git@96b009f3e787efe15ceb84a9ddd00f91289c1dc5",
       "src/third_party/vulkan-deps": "https://github.com/chromium-cheri/vulkan-deps.git@58f78fd4a2a3cced7f4c576b2e088407082dc569",
       "src/third_party/vulkan_memory_allocator": "https://github.com/chromium-cheri/VulkanMemoryAllocator.git@dbcf6e21325354a9dfc13e6bbebd860543844e73",
       "src/third_party/webrtc": "https://github.com/chromium-cheri/webrtc.git@a91af3b910fd6d38615125ee6bdeb47aea2a7f72",
-      "src/v8": "https://github.com/CTSRD-CHERI/v8.git@e70d53ff8cc1773b952e9e23771b6ae10919aa09"
+      "src/v8": "https://github.com/CTSRD-CHERI/v8.git@f7dd425d45f933103e49b8b7c5ffd0be80133d17"
     },
     "custom_vars": {
        "checkout_nacl": False
