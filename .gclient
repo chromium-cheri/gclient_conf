@@ -23,7 +23,7 @@ solutions = [
       "src/net/third_party/quiche/src": "https://github.com/chromium-cheri/quiche.git@ef71ed0abc2ecd209cdd56c95c77b4a16b8c5ccd",
       "src/third_party/ruy/src": "https://github.com/chromium-cheri/ruy.git@f30738cde26ef40b88305c367af48fb5736cc18c",
       "src/third_party/snappy/src": "https://github.com/chromium-cheri/snappy.git@7a0f716cd00154a0541fce85d9057965f9158d5b",
-      "src/third_party/skia": "https://github.com/chromium-cheri/skia.git@587820b33cfbd7c28f3e843aaffaca2b8e2aa57e",
+      "src/third_party/skia": "https://github.com/chromium-cheri/skia.git@dc30b912c1b700573dbdc64e8c5cd9de3115a79b",
       "src/third_party/sqlite/src": "https://github.com/CTSRD-CHERI/sqlite.git@ef35232f91bf0d6730c949b7a7c06b1a571232de",
       "src/third_party/tflite/src": "https://github.com/chromium-cheri/tflite.git@00744be1f261c5eff6b4b5edde1d0623e24b149b",
       "src/third_party/vulkan-deps": "https://github.com/chromium-cheri/vulkan-deps.git@58f78fd4a2a3cced7f4c576b2e088407082dc569",
