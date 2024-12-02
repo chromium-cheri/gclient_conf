@@ -17,7 +17,7 @@ solutions = [
       "src/third_party/libphonenumber/dist": "https://github.com/chromium-cheri/libphonenumber.git@ee22b820126f83a584753117fcfe5b03fa4afe9c",
       "src/third_party/libsync/src": "https://github.com/chromium-cheri/libsync.git@0b6b383c938a397112e4e876a1bd159e61dd80d1",
       "src/third_party/libvpx/source/libvpx": "https://github.com/chromium-cheri/libvpx.git@a15ed20bd8aa05f1af26d50a53f3267421bb7e46",
-      "src/third_party/openscreen/src": "https://github.com/chromium-cheri/openscreen.git@d15ba4fe463fb094224abf7780ff2cffaf41b1af",
+      "src/third_party/openscreen/src": "https://github.com/chromium-cheri/openscreen.git@944046ce816162f5e69917982eb51d2d3512b33e",
       "src/third_party/pdfium": "https://github.com/chromium-cheri/pdfium.git@6aad84e528fbb26b88454a36b080ba1c0e7098bb",
       "src/third_party/perfetto": "https://github.com/chromium-cheri/perfetto.git@eb78a956cdb80c24f4370e37c01042a62b51dccf",
       "src/net/third_party/quiche/src": "https://github.com/chromium-cheri/quiche.git@ef71ed0abc2ecd209cdd56c95c77b4a16b8c5ccd",
