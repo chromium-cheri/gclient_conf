@@ -18,7 +18,7 @@ solutions = [
       "src/third_party/libsync/src": "https://github.com/chromium-cheri/libsync.git@0b6b383c938a397112e4e876a1bd159e61dd80d1",
       "src/third_party/libvpx/source/libvpx": "https://github.com/chromium-cheri/libvpx.git@a15ed20bd8aa05f1af26d50a53f3267421bb7e46",
       "src/third_party/openscreen/src": "https://github.com/chromium-cheri/openscreen.git@944046ce816162f5e69917982eb51d2d3512b33e",
-      "src/third_party/pdfium": "https://github.com/chromium-cheri/pdfium.git@6aad84e528fbb26b88454a36b080ba1c0e7098bb",
+      "src/third_party/pdfium": "https://github.com/chromium-cheri/pdfium.git@179288d582ae6be41940ee67829a6dcff7bcc3a9",
       "src/third_party/perfetto": "https://github.com/chromium-cheri/perfetto.git@eb78a956cdb80c24f4370e37c01042a62b51dccf",
       "src/net/third_party/quiche/src": "https://github.com/chromium-cheri/quiche.git@ef71ed0abc2ecd209cdd56c95c77b4a16b8c5ccd",
       "src/third_party/ruy/src": "https://github.com/chromium-cheri/ruy.git@f30738cde26ef40b88305c367af48fb5736cc18c",
