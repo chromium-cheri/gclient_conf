@@ -5,7 +5,7 @@ solutions = [
     "managed": False,
     "custom_deps": {
       "src/media/cdm/api": "https://github.com/chromium-cheri/cdm.git@06dcab5c64a4bc935128c45cfcd7f2e869ad1ae7",
-      "src/third_party/angle": "https://github.com/chromium-cheri/angle.git@aa6470dd016fde093bb7b98f51171644353d670c",
+      "src/third_party/angle": "https://github.com/chromium-cheri/angle.git@078787aab829542ab51cecd2d003e2d9d783496a",
       "src/third_party/boringssl/src": "https://github.com/CTSRD-CHERI/boringssl.git@16e3025bef4d75edb347db72fc220e6a621b5544",
       "src/third_party/dawn": "https://github.com/chromium-cheri/dawn.git@b11037f6a91c18d7e4d9183f7d43714b595ba625",
       "src/third_party/dav1d/libdav1d": "https://github.com/chromium-cheri/dav1d.git@aa123ecb5ff5c84d74f4b00c4dc65b9328966936",
@@ -29,7 +29,7 @@ solutions = [
       "src/third_party/vulkan-deps": "https://github.com/chromium-cheri/vulkan-deps.git@58f78fd4a2a3cced7f4c576b2e088407082dc569",
       "src/third_party/vulkan_memory_allocator": "https://github.com/chromium-cheri/VulkanMemoryAllocator.git@dbcf6e21325354a9dfc13e6bbebd860543844e73",
       "src/third_party/webrtc": "https://github.com/chromium-cheri/webrtc.git@743300a34a4b9fe28a8ed0e175ac9e83a1c552e7",
-      "src/v8": "https://github.com/CTSRD-CHERI/v8.git@ed008f2e360c4db5a1671208929dc8ef00fce271"
+      "src/v8": "https://github.com/CTSRD-CHERI/v8.git@cef6cee5a6bb9219c3949562c7fb0cea03d5d1bb"
     },
     "custom_vars": {
        "checkout_nacl": False
